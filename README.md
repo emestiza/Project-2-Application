@@ -49,10 +49,10 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 - Pull in projects via API call from MongoDB Atlas
 - Deploy server via Heroku
 - Deploy application via Netlify
+- Use Bootstrap to improve UX and UI for frontend
 
 #### PostMVP 
 
-- Use Bootstrap to improve UX and UI for frontend
 - Social media icons
 
 ## Functional Components
@@ -70,17 +70,16 @@ Based on the initial logic defined in the previous sections, the logic is broken
 | API Deployment | H | 2hrs| hrs | hrs |
 | Frontend Strutcure | H | 4hrs| hrs | hrs |
 | Responsive Sesign | H | 4hrs | hrs | hrs|
-| Debugging & Testing | H | 8hrs| hrs | hrs |
-| Final Touches | M | 2hrs| hrs | hrs |
+| Debugging & Testing | M | 8hrs| hrs | hrs |
 | Application Deployment | H | 2hrs| hrs | hrs |
-| Total | H | 32hrs| hrs | hrs |
+| Bootstrap | L | 8hrs| hrs | hrs |
+| Total | H | 40hrs| hrs | hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Bootstrap | H | 4hrs | hrs | hrs|
-| Scocial media icons | L | 1hr | hr | hr|
-| Total | H | 5hrs| hrs | hrs |
+| Scocial Media Icons | L | 2hrs | hrs | hrs|
+| Total | H | 2hrs| hrs | hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
